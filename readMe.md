@@ -8,3 +8,6 @@
 
 #Docker
 <a href="https://habr.com/ru/company/flant/blog/336654/">Шпаргалка с командами Docker</a>
+
+##Линтеры
+<a href="https://habr.com/ru/post/457970/">Линтеры в Go. Как их готовить</a>
